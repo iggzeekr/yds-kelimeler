@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#1b2330">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Kelimeler">
+  <title>Kelime Çalışması</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon-192.png">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app">
+    <aside class="rail">
+      <div class="brand-block">
+        <p class="brand">Kelime Çalışması</p>
+      </div>
+      <nav>
+        <button type="button" data-act="go" data-view="home">Masa</button>
+        <button type="button" data-act="go" data-view="study">Kartlar</button>
+        <button type="button" data-act="go" data-view="quiz">Test</button>
+        <button type="button" data-act="go" data-view="list">Sözlük</button>
+        <button type="button" data-act="go" data-view="backup">Kayıt</button>
+      </nav>
+      <div class="side-foot">
+        <strong id="side-learned">—</strong>
+        <span id="side-due">—</span>
+        <span id="side-today">—</span>
+      </div>
+    </aside>
+    <main id="view"></main>
+  </div>
+  <noscript>Bu çalışma masası JavaScript ile çalışır.</noscript>
+  <script src="data/words.js"></script>
+  <script src="data/sprint.js"></script>
+  <script src="data/near.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

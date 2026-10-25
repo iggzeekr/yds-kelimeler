@@ -1,0 +1,350 @@
+pv-add-up	amount to, make sense
+pv-back-up	support, copy
+pv-blow-up	explode, enlarge
+pv-break-up	split, separate
+pv-bring-up	raise, mention
+pv-build-up	accumulate, increase
+pv-call-up	summon, phone
+pv-catch-up	reach, draw level
+pv-cheer-up	brighten, encourage
+pv-clean-up	tidy, clear
+pv-clear-up	explain, resolve
+pv-come-up	arise, appear
+pv-cover-up	hide, conceal
+pv-do-up	fasten, repair
+pv-dress-up	wear smart clothes, decorate
+pv-end-up	finish, result
+pv-fill-up	fill, top up
+pv-follow-up	pursue, continue
+pv-give-up	quit, abandon
+pv-grow-up	mature, become adult
+pv-hang-up	end a call, suspend
+pv-hold-up	delay, support
+pv-keep-up	maintain, continue
+pv-line-up	queue, arrange
+pv-look-up	search, consult
+pv-make-up	invent, constitute
+pv-mix-up	confuse, muddle
+pv-own-up	confess, admit
+pv-pick-up	collect, learn
+pv-pull-up	stop, draw over
+pv-put-up	erect, tolerate
+pv-set-up	establish, arrange
+pv-show-up	appear, arrive
+pv-speak-up	voice, say openly
+pv-stand-up	hold, remain valid
+pv-sum-up	summarize, conclude
+pv-take-up	start, occupy
+pv-turn-up	appear, arrive
+pv-use-up	consume, exhaust
+pv-bring-about	cause, lead to
+pv-warm-up	heat, prepare
+pv-eat-up	finish, consume
+pv-hurry-up	rush, hasten
+pv-open-up	unfold, become open
+pv-sit-up	straighten, rise
+pv-draw-up	draft, compose
+pv-stock-up	store, accumulate
+pv-team-up	join forces, cooperate
+pv-bottle-up	suppress, hold in
+pv-brush-up	refresh, revise
+pv-act-out	perform, express
+pv-back-out	withdraw, pull out
+pv-bail-out	rescue, save
+pv-blow-out	extinguish, burst
+pv-break-out	erupt, escape
+pv-burn-out	exhaust, wear out
+pv-carry-out	perform, execute
+pv-check-out	examine, verify
+pv-come-out	appear, be published
+pv-cross-out	delete, strike
+pv-cut-out	remove, stop
+pv-die-out	become extinct, disappear
+pv-drop-out	quit, withdraw
+pv-fade-out	disappear, diminish
+pv-fall-out	quarrel, disagree
+pv-figure-out	solve, understand
+pv-fill-out	complete, fill in
+pv-find-out	discover, learn
+pv-hand-out	distribute, give
+pv-hang-out	spend time, socialize
+pv-kick-out	expel, dismiss
+pv-knock-out	defeat, stun
+pv-lash-out	attack, strike
+pv-leave-out	omit, exclude
+pv-let-out	release, emit
+pv-look-out	beware, watch
+pv-make-out	understand, discern
+pv-max-out	reach the limit, peak
+pv-miss-out	lose a chance, skip
+pv-opt-out	withdraw, choose not to
+pv-pan-out	succeed, work out
+pv-pass-out	faint, lose consciousness
+pv-phase-out	withdraw gradually, discontinue
+pv-point-out	indicate, mention
+pv-pull-out	withdraw, leave
+pv-put-out	extinguish, publish
+pv-reach-out	contact, extend
+pv-rule-out	exclude, eliminate
+pv-run-out	be used up, expire
+pv-sell-out	be sold out, betray
+pv-set-out	start, depart
+pv-single-out	pick, select
+pv-sort-out	resolve, organize
+pv-speak-out	voice, protest
+pv-spell-out	explain clearly, specify
+pv-stand-out	be noticeable, excel
+pv-stamp-out	eliminate, suppress
+pv-take-out	remove, extract
+pv-try-out	test, sample
+pv-turn-out	result, prove
+pv-break-off	stop suddenly, end
+pv-call-off	cancel, abandon
+pv-come-off	succeed, happen
+pv-cut-off	disconnect, stop
+pv-drop-off	decline, leave
+pv-get-off	leave, alight
+pv-give-off	emit, produce
+pv-go-off	explode, spoil
+pv-hold-off	delay, postpone
+pv-lay-off	dismiss, discharge
+pv-let-off	excuse, release
+pv-log-off	sign out, disconnect
+pv-pay-off	succeed, repay
+pv-pull-off	succeed, manage
+pv-put-off	postpone, delay
+pv-see-off	say goodbye, escort
+pv-set-off	start, trigger
+pv-show-off	boast, display
+pv-shrug-off	dismiss, ignore
+pv-switch-off	turn off, shut down
+pv-take-off	depart, remove
+pv-tell-off	scold, reprimand
+pv-turn-off	switch off, repel
+pv-wear-off	fade, diminish
+pv-write-off	dismiss, cancel
+pv-rip-off	cheat, overcharge
+pv-nod-off	doze, fall asleep
+pv-lift-off	launch, take off
+pv-kick-off	start, begin
+pv-head-off	prevent, intercept
+pv-fall-off	decrease, drop
+pv-brush-off	dismiss, ignore
+pv-fend-off	repel, resist
+pv-laugh-off	dismiss, make light of
+pv-live-off	depend on, subsist
+pv-make-off	flee, escape
+pv-pair-off	couple, match
+pv-polish-off	finish, complete
+pv-round-off	complete, finish
+pv-start-off	begin, commence
+pv-bring-on	cause, induce
+pv-carry-on	continue, proceed
+pv-catch-on	understand, become popular
+pv-count-on	rely, depend
+pv-hold-on	wait, grip
+pv-keep-on	continue, persist
+pv-move-on	proceed, progress
+pv-take-on	accept, assume
+pv-turn-on	switch on, start
+pv-hang-on	wait, hold tight
+pv-back-down	retreat, yield
+pv-break-down	fail, analyze
+pv-bring-down	reduce, topple
+pv-calm-down	relax, soothe
+pv-close-down	shut, cease
+pv-come-down	descend, fall
+pv-crack-down	clamp down, suppress
+pv-cut-down	reduce, decrease
+pv-die-down	subside, fade
+pv-get-down	depress, discourage
+pv-hand-down	pass on, bequeath
+pv-keep-down	restrain, hold low
+pv-knock-down	demolish, fell
+pv-let-down	disappoint, fail
+pv-look-down	despise, scorn
+pv-mark-down	reduce, lower
+pv-narrow-down	limit, reduce
+pv-note-down	write, record
+pv-play-down	minimize, understate
+pv-put-down	write, suppress
+pv-run-down	exhaust, criticize
+pv-settle-down	calm, establish
+pv-shut-down	close, stop
+pv-slow-down	decelerate, ease
+pv-turn-down	reject, refuse
+pv-blow-over	subside, pass
+pv-boil-over	overflow, erupt
+pv-come-over	visit, affect
+pv-do-over	repeat, redo
+pv-get-over	recover, overcome
+pv-gloss-over	cover, downplay
+pv-go-over	review, examine
+pv-hand-over	surrender, give
+pv-look-over	scan, review
+pv-make-over	renovate, transform
+pv-pass-over	skip, ignore
+pv-pull-over	stop at the side, draw in
+pv-run-over	overflow, review
+pv-take-over	assume control, seize
+pv-talk-over	discuss, review
+pv-think-over	consider, ponder
+pv-turn-over	hand over, flip
+pv-watch-over	guard, supervise
+pv-win-over	persuade, convince
+pv-tide-over	help through, sustain
+pv-smooth-over	ease, settle
+pv-start-over	begin again, restart
+pv-spill-over	overflow, spread
+pv-paper-over	cover, conceal
+pv-pore-over	study, examine
+pv-bounce-back	recover, rebound
+pv-bring-back	return, restore
+pv-call-back	phone again, recall
+pv-come-back	return, reappear
+pv-cut-back	reduce, decrease
+pv-fall-back	retreat, withdraw
+pv-fight-back	resist, retaliate
+pv-get-back	recover, return
+pv-give-back	return, restore
+pv-go-back	return, revert
+pv-hold-back	restrain, withhold
+pv-look-back	recall, remember
+pv-pay-back	repay, return
+pv-set-back	delay, hinder
+pv-take-back	retract, reclaim
+pv-break-away	escape, separate
+pv-cast-away	maroon, discard
+pv-do-away	abolish, eliminate
+pv-get-away	escape, leave
+pv-give-away	reveal, betray
+pv-pass-away	die, expire
+pv-put-away	store, imprison
+pv-run-away	flee, escape
+pv-take-away	remove, subtract
+pv-throw-away	discard, dump
+pv-turn-away	reject, refuse
+pv-walk-away	leave, abandon
+pv-waste-away	decline, wither
+pv-while-away	pass, spend
+pv-fade-away	disappear, diminish
+pv-break-into	enter by force, burgle
+pv-bump-into	meet, encounter
+pv-burst-into	suddenly start, erupt
+pv-come-into	inherit, acquire
+pv-enter-into	begin, engage in
+pv-fit-into	belong, suit
+pv-get-into	enter, become involved
+pv-go-into	investigate, discuss
+pv-grow-into	become, develop into
+pv-look-into	investigate, examine
+pv-run-into	meet, encounter
+pv-sink-into	fall into, absorb
+pv-talk-into	persuade, convince
+pv-turn-into	become, change into
+pv-delve-into	investigate, explore
+pv-buy-into	believe, accept
+pv-tap-into	use, draw on
+pv-lapse-into	slip into, fall
+pv-blend-into	merge, fit in
+pv-plunge-into	dive into, enter suddenly
+pv-account-for	explain, make up
+pv-allow-for	consider, make provision
+pv-answer-for	be responsible, account
+pv-apply-for	request, seek
+pv-ask-for	request, invite
+pv-call-for	require, demand
+pv-care-for	look after, like
+pv-cater-for	provide, serve
+pv-fall-for	be deceived, be attracted
+pv-go-for	choose, aim at
+pv-head-for	go toward, approach
+pv-hope-for	wish, expect
+pv-live-for	devote oneself, exist for
+pv-look-for	search, seek
+pv-make-for	head toward, lead to
+pv-pay-for	suffer for, cover the cost
+pv-search-for	look for, seek
+pv-settle-for	accept, compromise
+pv-stand-for	represent, mean
+pv-vote-for	support, choose
+pv-agree-with	concur, match
+pv-cope-with	manage, handle
+pv-deal-with	handle, address
+pv-identify-with	relate to, empathize
+pv-interfere-with	hinder, disrupt
+pv-meet-with	encounter, experience
+pv-part-with	give up, relinquish
+pv-side-with	support, back
+pv-stick-with	stay with, continue
+pv-tamper-with	interfere, meddle
+pv-collide-with	crash into, conflict
+pv-comply-with	obey, follow
+pv-grapple-with	struggle, wrestle
+pv-reason-with	persuade, argue
+pv-toy-with	consider, play with
+pv-break-through	penetrate, overcome
+pv-carry-through	complete, accomplish
+pv-come-through	survive, succeed
+pv-fall-through	fail, collapse
+pv-follow-through	complete, finish
+pv-get-through	finish, survive
+pv-go-through	experience, examine
+pv-live-through	survive, endure
+pv-look-through	scan, review
+pv-pull-through	survive, recover
+pv-put-through	connect, subject to
+pv-run-through	rehearse, review
+pv-see-through	understand, detect
+pv-sit-through	endure, stay till the end
+pv-think-through	consider fully, reason
+pv-come-up-with	produce, devise
+pv-do-away-with	abolish, eliminate
+pv-get-away-with	escape punishment, avoid blame
+pv-put-up-with	tolerate, endure
+pv-look-forward-to	anticipate, await
+pv-look-down-on	despise, scorn
+pv-look-up-to	admire, respect
+pv-come-down-with	catch, contract
+pv-come-up-against	encounter, face
+pv-cut-down-on	reduce, decrease
+pv-drop-out-of	quit, leave
+pv-get-along-with	get on, be friendly
+pv-get-down-to	start, begin
+pv-get-on-with	continue, proceed
+pv-get-rid-of	remove, eliminate
+pv-go-along-with	agree, accept
+pv-go-back-on	break, renege
+pv-go-in-for	take up, like
+pv-go-through-with	complete, carry out
+pv-keep-up-with	match, stay level
+pv-live-up-to	fulfill, match
+pv-look-out-for	watch, beware
+pv-make-up-for	compensate, offset
+pv-run-out-of	exhaust, use up
+pv-stand-up-for	defend, support
+pv-stand-up-to	resist, withstand
+pv-walk-out-on	abandon, leave
+pv-watch-out-for	beware, look for
+pv-catch-up-with	reach, draw level
+pv-face-up-to	confront, accept
+pv-fall-back-on	rely on, resort to
+pv-fit-in-with	match, agree
+pv-get-round-to	find time, finally do
+pv-hold-on-to	keep, retain
+pv-look-back-on	recall, remember
+pv-make-off-with	steal, run off with
+pv-miss-out-on	lose, fail to get
+pv-own-up-to	admit, confess
+pv-put-in-for	apply, request
+pv-zero-in-on	focus, target
+pv-boil-down-to	amount to, come down to
+pv-brush-up-on	refresh, revise
+pv-cash-in-on	exploit, profit from
+pv-crack-down-on	suppress, clamp down
+pv-come-in-for	receive, be subject to
+pv-date-back-to	originate, go back
+pv-fall-in-with	agree, go along
+pv-get-back-at	retaliate, revenge
+pv-go-down-with	catch, contract
+pv-measure-up-to	match, meet

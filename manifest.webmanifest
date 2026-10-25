@@ -1,0 +1,25 @@
+{
+  "name": "Kelime Çalışması",
+  "short_name": "Kelimeler",
+  "description": "YDS kelime çalışması",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e7e1d4",
+  "theme_color": "#1b2330",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

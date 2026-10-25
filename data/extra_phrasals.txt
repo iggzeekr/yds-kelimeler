@@ -1,0 +1,350 @@
+add up|toplam tutmak|The figures do not add up.
+back up|yedeklemek, desteklemek|Please back up the file.
+blow up|patlamak|The boiler might blow up.
+break up|ayrılmak, parçalamak|The meeting broke up at noon.
+bring up|gündeme getirmek|She brought up the cost.
+build up|birikmek|Pressure built up in the pipe.
+call up|aramak, askere almak|The office called up every volunteer.
+catch up|yetişmek|She caught up after the illness.
+cheer up|neşelenmek|The news cheered him up.
+clean up|temizlemek|Volunteers cleaned up the beach.
+clear up|aydınlatmak|The letter cleared up the doubt.
+come up|ortaya çıkmak|A problem came up at dawn.
+cover up|örtbas etmek|They tried to cover up the leak.
+do up|tamir etmek|They did up the old house.
+dress up|süslenmek|Children dressed up for the play.
+end up|sonunda varmak|The road ends up at the port.
+fill up|dolmak|The hall filled up quickly.
+follow up|takip etmek|The nurse followed up the test.
+give up|vazgeçmek|Do not give up the search.
+grow up|büyümek|She grew up by the harbor.
+hang up|telefonu kapatmak|He hung up in anger.
+hold up|geciktirmek|Traffic held up the bus.
+keep up|sürdürmek|Keep up the daily review.
+line up|sıraya girmek|Voters lined up at dawn.
+look up|aramak|Look up the word in a dictionary.
+make up|uydurmak, oluşturmak|Women make up half the sample.
+mix up|karıştırmak|I mixed up the two dates.
+own up|itiraf etmek|He owned up to the error.
+pick up|almak, kapmak|She picked up a little Greek.
+pull up|kenara çekmek|The taxi pulled up outside.
+put up|dikmek, katlanmak|They put up a new sign.
+set up|kurmak|The lab was set up in May.
+show up|ortaya çıkmak|Only half the class showed up.
+speak up|sesini yükseltmek|Speak up if the rule is unclear.
+stand up|ayakta durmak, geçerli olmak|The claim did not stand up.
+sum up|özetlemek|The last slide sums up the result.
+take up|başlamak, yer kaplamak|She took up nursing at thirty.
+turn up|çıka gelmek|The missing file turned up.
+use up|tüketmek|The town used up its water.
+bring about|neden olmak|The reform brought about a slow change.
+warm up|ısınmak|The day warmed up by noon.
+eat up|bitirmek|Fees ate up the grant.
+hurry up|acele etmek|Hurry up or the gate will close.
+open up|açılmak|The market opened up to imports.
+sit up|doğrulup oturmak|The news made her sit up.
+draw up|kaleme almak|Lawyers drew up the contract.
+stock up|stoklamak|Hospitals stocked up on masks.
+team up|güç birliği yapmak|The two labs teamed up.
+bottle up|içine atmak|He bottled up his anger.
+brush up|tazelemek|Brush up the irregular verbs.
+act out|davranışa dökmek|The child acted out his fear.
+back out|caymak|The donor backed out on Friday.
+bail out|kurtarmak|The state bailed out the bank.
+blow out|söndürmek|Wind blew out the candle.
+break out|patlak vermek|War broke out in spring.
+burn out|tükenmek|Nurses burn out without rest.
+carry out|yürütmek|The team carried out a survey.
+check out|kontrol etmek|Check out every reference.
+come out|yayımlanmak|The report comes out in May.
+cross out|çizmek|Cross out the wrong date.
+cut out|kesip çıkarmak|Cut out the repeated sentence.
+die out|soyunun tükenmesi|The dialect may die out.
+drop out|bırakmak|He dropped out of the course.
+fade out|silinmek|The signal faded out.
+fall out|küsmek|The partners fell out over money.
+figure out|çözmek|We figured out the cause.
+fill out|doldurmak|Fill out the form in ink.
+find out|öğrenmek|Readers found out the truth later.
+hand out|dağıtmak|Teachers handed out the papers.
+hang out|takılmak|Students hang out by the gate.
+kick out|kovmak|The club kicked him out.
+knock out|nakavt etmek|The drug knocked her out.
+lash out|sert çıkışmak|The minister lashed out at the press.
+leave out|dışarıda bırakmak|Do not leave out the women.
+let out|salmak|The school lets out at four.
+look out|dikkat etmek|Look out for the step.
+make out|anlamak, seçmek|I cannot make out his writing.
+max out|son haddine varmak|The ward maxed out its beds.
+miss out|kaçırmak|She missed out on the grant.
+opt out|çekilmek|Parents may opt out of the test.
+pan out|sonuç vermek|The plan did not pan out.
+pass out|bayılmak|He passed out from the heat.
+phase out|kademeli kaldırmak|The plant will phase out coal.
+point out|belirtmek|The tutor pointed out the tense.
+pull out|çekilmek|The firm pulled out of the deal.
+put out|söndürmek|Firefighters put out the blaze.
+reach out|el uzatmak|The clinic reached out to villages.
+rule out|elemek|Doctors ruled out infection.
+run out|tükenmek|Time ran out before the last item.
+sell out|tükenmek, satmak|The tickets sold out.
+set out|yola çıkmak|They set out at dawn.
+single out|ayrı tutmak|The review singled out one flaw.
+sort out|halletmek|We must sort out the dates.
+speak out|açıkça konuşmak|She spoke out against the ban.
+spell out|açıkça anlatmak|The law spells out the fine.
+stand out|öne çıkmak|One result stands out.
+stamp out|bastırmak|The campaign stamped out the rumor.
+take out|çıkarmak|Take out the damaged page.
+try out|denemek|Try out the method on a small group.
+turn out|sonuçlanmak|The rumor turned out to be false.
+break off|aniden kesmek|Talks broke off in June.
+call off|iptal etmek|They called off the match.
+come off|başarılı olmak|The trick did not come off.
+cut off|kesmek|The storm cut off the power.
+drop off|düşmek, bırakmak|Sales dropped off in August.
+get off|inmek|We get off at the next stop.
+give off|salmak|The paint gives off a smell.
+go off|patlamak, bozulmak|The alarm went off at night.
+hold off|ertelemek|Buyers held off for a week.
+lay off|işten çıkarmak|The mill laid off fifty workers.
+let off|serbest bırakmak|The judge let him off with a fine.
+log off|oturumu kapatmak|Log off when you leave.
+pay off|karşılığını vermek|The long practice paid off.
+pull off|başarmak|She pulled off a surprise win.
+put off|ertelemek|Do not put off the review.
+see off|uğurlamak|Crowds saw the team off.
+set off|yola çıkmak, tetiklemek|The spark set off the alarm.
+show off|gösteriş yapmak|He showed off the new car.
+shrug off|önemsememek|She shrugged off the insult.
+switch off|kapatmak|Switch off the pump at night.
+take off|havalanmak, çıkarmak|The plane took off late.
+tell off|azarlamak|The editor told him off.
+turn off|kapatmak|Turn off the tap.
+wear off|etkisi geçmek|The painkiller wore off.
+write off|gözden çıkarmak|Insurers wrote off the car.
+rip off|kazıklamak|The stall ripped off tourists.
+nod off|uyuklamak|He nodded off in the lecture.
+lift off|havalanmak|The rocket lifted off at dawn.
+kick off|başlamak|The fair kicks off on Friday.
+head off|önlemek|A call headed off the strike.
+fall off|düşmek|Demand fell off after the tax.
+brush off|savmak|She brushed off the question.
+fend off|savuşturmak|The firm fended off a lawsuit.
+laugh off|gülüp geçmek|He laughed off the threat.
+live off|geçinmek|They live off a small pension.
+make off|kaçmak|Thieves made off with the cash.
+pair off|eşleşmek|Students paired off for the task.
+polish off|bitirmek|She polished off the last question.
+round off|tamamlamak|A summary rounded off the talk.
+start off|başlamak|Start off with the verb list.
+bring on|neden olmak|Dust brings on his cough.
+carry on|devam etmek|Carry on until the bell.
+catch on|kavramak|The idea caught on slowly.
+count on|güvenmek|You can count on the night shift.
+hold on|beklemek|Hold on while I check the file.
+keep on|sürdürmek|Keep on reading the stem.
+move on|ilerlemek|Let us move on to the next item.
+take on|üstlenmek|She took on a second class.
+turn on|açmak|Turn on the ventilator.
+hang on|sıkı tutunmak|Hang on to the rail.
+back down|geri adım atmak|The minister backed down.
+break down|bozulmak, çözmek|The truck broke down.
+bring down|düşürmek|The vote brought down the cabinet.
+calm down|sakinleşmek|Calm down and reread the stem.
+close down|kapanmak|The mill closed down in 1998.
+come down|inmek|Prices came down in May.
+crack down|sertleşmek|Police cracked down on fraud.
+cut down|azaltmak|Cut down on salt.
+die down|dinmek|The wind died down.
+get down|üzmek|The news got him down.
+hand down|kuşaktan kuşağa aktarmak|The recipe was handed down.
+keep down|düşük tutmak|The lid keeps the noise down.
+knock down|yıkmak|They knocked down the wall.
+let down|hayal kırıklığına uğratmak|The result let the team down.
+look down|hor görmek|Do not look down on the work.
+mark down|fiyat düşürmek|The shop marked down the coats.
+narrow down|daraltmak|Narrow down the options.
+note down|not etmek|Note down the date.
+play down|küçümsemek|The firm played down the leak.
+put down|yazmak, bastırmak|Put down your full name.
+run down|yormak, kötülemek|Lack of sleep ran her down.
+settle down|yerleşmek|The class settled down.
+shut down|kapatmak|The reactor shut down safely.
+slow down|yavaşlamak|Growth slowed down.
+turn down|reddetmek|The board turned down the offer.
+blow over|yatışmak|The scandal will blow over.
+boil over|taşmak|The dispute boiled over.
+come over|uğramak|Come over after the lecture.
+do over|yeniden yapmak|Do the table over.
+get over|atlatmak|She got over the flu.
+gloss over|üstünü örtmek|Do not gloss over the flaw.
+go over|gözden geçirmek|Go over the answers tonight.
+hand over|teslim etmek|He handed over the keys.
+look over|göz atmak|Look over the contract.
+make over|yenilemek|They made over the ward.
+pass over|atlamak|The report passed over that year.
+pull over|kenara çekmek|The driver pulled over.
+run over|ezmek, tekrar etmek|Let us run over the list.
+take over|devralmak|A new firm took over the mill.
+talk over|görüşmek|Talk it over with your tutor.
+think over|iyice düşünmek|Think over the offer.
+turn over|devirmek|Waves turned over the boat.
+watch over|göz kulak olmak|Nurses watch over the ward.
+win over|kazanmak|The speech won over the crowd.
+tide over|idare etmek|The loan tided them over.
+smooth over|yatıştırmak|She smoothed over the quarrel.
+start over|baştan başlamak|We had to start over.
+spill over|taşmak|The conflict spilled over the border.
+paper over|örtmek|A speech cannot paper over the loss.
+pore over|incelemek|Students pored over the map.
+bounce back|toparlanmak|Trade bounced back in June.
+bring back|geri getirmek|The law brought back an old tax.
+call back|geri aramak|The clinic will call you back.
+come back|geri dönmek|The pain came back at night.
+cut back|kısmak|The school cut back on trips.
+fall back|geri çekilmek|Troops fell back to the river.
+fight back|karşı koymak|Patients fight back against the infection.
+get back|geri almak|She got her bag back.
+give back|iade etmek|Give the book back on Friday.
+go back|geri gitmek|The story goes back to 1912.
+hold back|alıkoymak|Fear held her back.
+look back|geriye bakmak|Look back at yesterday's misses.
+pay back|geri ödemek|He paid back the loan.
+set back|geri atmak|The storm set back the harvest.
+take back|geri almak|I take back that remark.
+break away|kopmak|A group broke away from the party.
+cast away|ıssız yere düşmek|Sailors were cast away on the reef.
+do away|kaldırmak|The reform did away with the fee.
+get away|kaçmak|The thief got away.
+give away|ele vermek|The accent gave her away.
+pass away|vefat etmek|Her aunt passed away in May.
+put away|kaldırmak|Put away the notes.
+run away|kaçmak|The boy ran away from home.
+take away|götürmek|The flood took away the bridge.
+throw away|atmak|Do not throw away the draft.
+turn away|geri çevirmek|The hospital turned no one away.
+walk away|çekip gitmek|He walked away from the deal.
+waste away|eriyip gitmek|Without food the cattle waste away.
+while away|vakit geçirmek|They whiled away the delay with cards.
+fade away|solup gitmek|The custom faded away.
+break into|zorla girmek|Thieves broke into the lab.
+bump into|rastlamak|I bumped into my old tutor.
+burst into|birden başlamak|She burst into tears.
+come into|sahip olmak|He came into a small inheritance.
+enter into|girmek|The two states entered into talks.
+fit into|sığmak|The visit fits into one day.
+get into|girmek|How did the error get into the table?
+go into|ayrıntısına girmek|The book goes into the causes.
+grow into|büyüyünce olmak|The town grew into a port.
+look into|araştırmak|Police looked into the fire.
+run into|rastlamak, uğramak|The project ran into delays.
+sink into|batmak|The pier sank into the mud.
+talk into|ikna etmek|She talked him into a recount.
+turn into|dönüşmek|Tadpoles turn into frogs.
+delve into|derinine inmek|The essay delves into the tax.
+buy into|inanmak|Do not buy into the rumor.
+tap into|yararlanmak|The well taps into deep water.
+lapse into|düşmek|The talk lapsed into silence.
+blend into|karışmak|The houses blend into the hill.
+plunge into|dalmak|The country plunged into recession.
+account for|açıklamak|Exports account for half the income.
+allow for|pay bırakmak|Allow for a short delay.
+answer for|hesabını vermek|He must answer for the loss.
+apply for|başvurmak|She applied for the grant.
+ask for|istemek|Ask for the source.
+call for|gerektirmek|The case calls for caution.
+care for|bakmak|Nurses care for night patients.
+cater for|hizmet etmek|The hall caters for two hundred.
+fall for|kanmak|Readers fell for the headline.
+go for|hedeflemek|They went for a safer plan.
+head for|yönelmek|The ship headed for the port.
+hope for|ummak|Farmers hope for rain.
+live for|uğruna yaşamak|She lives for the archive.
+look for|aramak|Look for the time marker.
+make for|yönelmek|Crowds made for the exit.
+pay for|bedelini ödemek|The town paid for the delay.
+search for|aramak|Teams searched for the child.
+settle for|razı olmak|They settled for a smaller grant.
+stand for|temsil etmek|The letters stand for a long name.
+vote for|lehine oy vermek|Most members voted for the bill.
+agree with|aynı fikirde olmak|I agree with the conclusion.
+cope with|başa çıkmak|The ward cannot cope with more patients.
+deal with|ele almak|The chapter deals with taxes.
+identify with|özdeşleşmek|Readers identify with the narrator.
+interfere with|engellemek|Noise interferes with sleep.
+meet with|karşılaşmak|The plan met with resistance.
+part with|ayrılmak|He would not part with the letter.
+side with|yanında yer almak|The press sided with the workers.
+stick with|bağlı kalmak|Stick with the same method.
+tamper with|kurcalamak|Someone tampered with the lock.
+collide with|çarpışmak|The claim collides with the data.
+comply with|uymak|Firms must comply with the code.
+grapple with|boğuşmak|The city grapples with debt.
+reason with|ikna etmeye çalışmak|You cannot reason with a rumor.
+toy with|oynamak|The board toyed with a tax cut.
+break through|aşmak|Researchers broke through the barrier.
+carry through|sonuna kadar götürmek|She carried the reform through.
+come through|sağ salim çıkmak|The town came through the flood.
+fall through|yatmak|The deal fell through.
+follow through|sonunu getirmek|Follow through on the promise.
+get through|bitirmek|I got through the paper at midnight.
+go through|geçirmek|The bill went through the committee.
+live through|yaşamak|They lived through two wars.
+look through|gözden geçirmek|Look through the notes tonight.
+pull through|kurtulmak|The patient pulled through.
+put through|bağlamak|Put me through to the ward.
+run through|hızlıca geçmek|Let us run through the list.
+see through|anlamak|Readers saw through the excuse.
+sit through|sonuna kadar oturmak|We sat through a long hearing.
+think through|iyice düşünmek|Think the risk through.
+come up with|akıl etmek|The team came up with a fix.
+do away with|kaldırmak|The law did away with the fee.
+get away with|yanına kar kalmak|He will not get away with the fraud.
+put up with|katlanmak|Staff put up with the noise.
+look forward to|dört gözle beklemek|Students look forward to the break.
+look down on|küçümsemek|Do not look down on the trade.
+look up to|hayran olmak|Pupils look up to the nurse.
+come down with|hastalığa yakalanmak|She came down with the flu.
+come up against|karşılaşmak|The plan came up against a veto.
+cut down on|azaltmak|Cut down on sugar.
+drop out of|bırakmak|He dropped out of college.
+get along with|geçinmek|She gets along with the night team.
+get down to|başlamak|Let us get down to work.
+get on with|devam etmek|Get on with the reading.
+get rid of|kurtulmak|Get rid of the duplicate file.
+go along with|uymak|The board went along with the cut.
+go back on|sözünden dönmek|Do not go back on the promise.
+go in for|meraklı olmak|He goes in for long walks.
+go through with|sonuna kadar yapmak|She went through with the resignation.
+keep up with|ayak uydurmak|Wages did not keep up with rent.
+live up to|layık olmak|The film did not live up to the book.
+look out for|gözlemek|Look out for time words.
+make up for|telafi etmek|A quiet week made up for the rush.
+run out of|tükenmek|The clinic ran out of gloves.
+stand up for|savunmak|She stood up for the interns.
+stand up to|dayanmak|The wall stood up to the storm.
+walk out on|yüzüstü bırakmak|He walked out on the contract.
+watch out for|dikkat etmek|Watch out for false friends.
+catch up with|yetişmek|Prices caught up with wages.
+face up to|göğüs germek|The town faced up to the debt.
+fall back on|yedek olarak kullanmak|She fell back on her savings.
+fit in with|uyum sağlamak|The visit fits in with the tour.
+get round to|fırsat bulmak|I never got round to the last chapter.
+hold on to|sahip çıkmak|Hold on to the receipt.
+look back on|anımsamak|He looks back on the year fondly.
+make off with|alıp kaçmak|Thieves made off with the laptop.
+miss out on|kaçırmak|Do not miss out on the review.
+own up to|üstüne almak|She owned up to the mistake.
+put in for|başvurmak|He put in for a transfer.
+zero in on|odaklanmak|The audit zeroed in on travel costs.
+boil down to|gelip dayanmak|The dispute boils down to money.
+brush up on|tazelemek|Brush up on the modals.
+cash in on|nemalanmak|Shops cashed in on the fair.
+crack down on|sert müdahale etmek|Police cracked down on fraud.
+come in for|uğramak|The plan came in for criticism.
+date back to|tarihlenmek|The wall dates back to 1500.
+fall in with|uyum sağlamak|She fell in with their plan.
+get back at|öç almak|He wanted to get back at the critic.
+go down with|hastalanmak|Half the class went down with flu.
+measure up to|boy ölçüşmek|The copy did not measure up to the original.

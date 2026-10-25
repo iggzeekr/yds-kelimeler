@@ -1,0 +1,700 @@
+abandon	give up, desert
+abolish	do away with, cancel
+absorb	soak up, take in
+accelerate	speed up, hasten
+accommodate	house, adapt to
+accompany	go with, attend
+accomplish	achieve, carry out
+accumulate	gather, pile up
+accurate	correct, exact
+accuse	charge, blame
+achieve	reach, accomplish
+acknowledge	admit, recognize
+acquire	obtain, gain
+adapt	adjust, modify
+adequate	enough, sufficient
+adhere	stick to, follow
+adjust	regulate, adapt
+administer	manage, carry out
+advocate	support, argue for
+adverse	unfavorable, harmful
+affect	influence, change
+effect	result, impact
+aggravate	worsen, make worse
+allocate	assign, set aside
+alter	change, modify
+ambiguous	unclear, vague
+analyze	examine, break down
+anticipate	expect, foresee
+apparent	obvious, visible
+appeal	attract, plead
+apply	use, request
+appoint	name, assign
+appreciate	value, be grateful for
+approach	method, way
+appropriate	suitable, proper
+approve	accept, authorize
+arbitrary	random, whimsical
+arise	come up, emerge
+assert	claim, state firmly
+assess	evaluate, judge
+assign	give, allot
+assume	suppose, presume
+assure	reassure, promise
+ensure	make sure, guarantee
+attain	reach, achieve
+attempt	try, effort
+attitude	outlook, stance
+attribute	ascribe, credit
+authority	power, control
+avoid	keep away from, evade
+aware	conscious, mindful
+benefit	advantage, gain
+bias	prejudice, partiality
+boost	increase, lift
+brief	short, concise
+broaden	widen, expand
+capable	able, competent
+capacity	ability, volume
+cease	stop, end
+challenge	question, test
+circumstance	condition, situation
+cite	quote, refer to
+claim	assert, maintain
+clarify	make clear, explain
+coherent	logical, consistent
+coincide	occur together, match
+collapse	fall apart, break down
+commit	pledge, carry out
+compensate	make up for, offset
+compile	collect, assemble
+comply	obey, follow
+comprise	consist of, include
+conceal	hide, cover
+concentrate	focus, gather
+conclude	finish, decide
+conduct	carry out, lead
+confine	limit, restrict
+confirm	verify, prove
+conflict	clash, dispute
+confront	face, challenge
+consent	agreement, permission
+consequence	result, outcome
+conserve	preserve, save
+considerable	substantial, large
+consistent	steady, coherent
+constitute	make up, form
+constraint	limit, restriction
+consult	ask, seek advice
+consume	use up, eat
+contemporary	modern, current
+contradict	deny, oppose
+contrast	difference, opposition
+contribute	give, add
+controversial	disputed, debatable
+convention	custom, agreement
+convince	persuade, win over
+cope	manage, deal with
+correspond	match, write to
+crucial	vital, essential
+cultivate	develop, grow
+decline	decrease, refuse
+decrease	reduce, lessen
+deduce	infer, conclude
+deem	consider, regard
+definite	certain, clear
+defy	resist, challenge
+deliberate	intentional, planned
+demonstrate	show, prove
+deny	reject, refuse
+derive	obtain, come from
+despite	in spite of, notwithstanding
+detect	find, notice
+deteriorate	worsen, decline
+determine	decide, establish
+devise	invent, design
+devote	dedicate, give
+differentiate	tell apart, distinguish
+diminish	lessen, reduce
+disclose	reveal, make known
+dismiss	reject, send away
+displace	replace, move out
+display	show, exhibit
+dispose	get rid of, discard
+disrupt	interrupt, disturb
+distinct	clear, separate
+distinguish	tell apart, recognize
+distort	twist, misrepresent
+diverse	varied, different
+domestic	internal, home
+dominate	control, prevail
+draft	draw up, sketch
+eliminate	remove, get rid of
+emerge	appear, come out
+emphasis	stress, importance
+empirical	based on evidence, experimental
+enable	allow, make possible
+encounter	meet, come across
+encourage	support, urge
+endure	last, bear
+enforce	impose, carry out
+enhance	improve, strengthen
+entail	involve, require
+equivalent	equal, comparable
+establish	set up, prove
+estimate	judge, approximate
+evaluate	assess, judge
+evidence	proof, sign
+evident	obvious, clear
+evolve	develop, change
+exceed	go beyond, surpass
+exclude	leave out, shut out
+exhibit	show, display
+expand	enlarge, grow
+explicit	clear, direct
+exploit	use, take advantage of
+expose	uncover, subject to
+extensive	wide, broad
+facilitate	make easier, help
+feasible	possible, workable
+fluctuate	vary, swing
+forbid	ban, prohibit
+forecast	predict, foresee
+formulate	devise, express
+foster	encourage, promote
+fulfill	carry out, satisfy
+fundamental	basic, essential
+generate	produce, create
+gradual	slow, step by step
+grasp	understand, grip
+guarantee	promise, ensure
+halt	stop, pause
+hamper	hinder, obstruct
+hence	therefore, thus
+highlight	emphasize, stress
+hinder	obstruct, impede
+identical	the same, equal
+identify	recognize, name
+ignorant	unaware, uninformed
+illustrate	show, exemplify
+imply	suggest, hint
+infer	deduce, conclude
+impose	force, apply
+incentive	motive, encouragement
+incidence	rate, frequency
+incline	tend, lean
+incorporate	include, integrate
+indicate	show, point to
+induce	cause, persuade
+inevitable	unavoidable, certain
+inhibit	restrain, hinder
+initial	first, opening
+initiate	start, begin
+innovation	novelty, new method
+insert	put in, add
+insight	understanding, perception
+insist	demand, maintain
+inspect	examine, check
+integrate	combine, unify
+intense	strong, extreme
+interpret	explain, understand
+interrupt	break in, cut off
+intervene	step in, interfere
+investigate	examine, look into
+isolate	separate, set apart
+issue	matter, problem
+justify	defend, warrant
+lack	shortage, absence
+launch	start, introduce
+liable	responsible, likely
+likely	probable, expected
+limitation	limit, restriction
+link	connection, bond
+maintain	keep, claim
+major	main, chief
+manipulate	control, handle
+marginal	minor, slight
+mature	ripen, develop
+means	method, way
+meanwhile	in the meantime, at the same time
+mere	only, nothing more than
+merge	combine, unite
+minimize	reduce, lessen
+modify	change, adjust
+monitor	watch, track
+moreover	in addition, besides
+mutual	shared, reciprocal
+neglect	ignore, overlook
+negotiate	bargain, discuss
+nevertheless	even so, still
+notion	idea, concept
+objective	goal, aim
+obstacle	barrier, hindrance
+obtain	get, acquire
+obvious	clear, evident
+occupy	fill, take up
+occur	happen, take place
+omit	leave out, skip
+ongoing	continuing, in progress
+opportunity	chance, opening
+oppose	resist, object to
+option	choice, alternative
+outcome	result, consequence
+outline	sketch, summarize
+overall	general, total
+overcome	defeat, get past
+overlook	miss, ignore
+participate	take part, join
+perceive	notice, sense
+persist	continue, last
+persuade	convince, talk into
+phenomenon	occurrence, event
+pose	present, create
+postpone	delay, put off
+potential	possibility, capacity
+precise	exact, accurate
+predict	forecast, foresee
+preliminary	initial, preparatory
+preserve	keep, protect
+prevent	stop, avert
+previous	earlier, prior
+primary	main, chief
+principal	main, leading
+principle	rule, doctrine
+prior	earlier, previous
+proceed	continue, go on
+profound	deep, intense
+prohibit	ban, forbid
+prominent	well-known, leading
+promote	encourage, advance
+prone	likely, inclined
+proportion	share, ratio
+propose	suggest, put forward
+prospect	outlook, possibility
+provoke	cause, stir up
+publish	issue, release
+pursue	follow, chase
+qualify	entitle, meet the requirements
+random	chance, arbitrary
+range	vary, extend
+rapid	fast, quick
+rare	uncommon, scarce
+rate	ratio, speed
+rational	reasonable, logical
+recall	remember, call back
+recommend	advise, suggest
+recover	regain, get better
+reduce	lessen, cut
+refer	mention, relate to
+refine	improve, polish
+reflect	show, mirror
+refuse	decline, reject
+regard	consider, view
+regardless	anyway, no matter
+regulate	control, govern
+reinforce	strengthen, support
+reject	refuse, turn down
+release	free, publish
+relevant	related, pertinent
+reliable	dependable, trustworthy
+reluctant	unwilling, hesitant
+rely	depend, count on
+remain	stay, continue
+remarkable	striking, notable
+remedy	cure, solution
+render	make, provide
+renew	restore, extend
+replace	substitute, take the place of
+represent	stand for, depict
+require	need, demand
+resemble	look like, be similar to
+reside	live, dwell
+resist	oppose, withstand
+resolve	settle, solve
+respective	own, individual
+respond	answer, reply
+restore	bring back, repair
+restrict	limit, confine
+retain	keep, hold
+reveal	show, disclose
+revise	review, amend
+rigid	stiff, strict
+robust	strong, sturdy
+scarce	rare, in short supply
+scope	range, extent
+seek	look for, search
+select	choose, pick
+sequence	order, series
+severe	harsh, serious
+shift	change, move
+significant	important, meaningful
+simultaneous	at the same time, concurrent
+sole	only, single
+sophisticated	complex, advanced
+source	origin, root
+stable	steady, firm
+steady	stable, constant
+stimulate	encourage, arouse
+strategy	plan, approach
+strict	severe, exact
+submit	hand in, present
+subsequent	later, following
+substantial	considerable, large
+substitute	replace, stand in for
+subtle	slight, delicate
+sufficient	enough, adequate
+suitable	appropriate, fitting
+summarize	sum up, outline
+supply	provide, give
+suppress	restrain, put down
+surge	sudden rise, swell
+survive	live through, endure
+susceptible	vulnerable, prone
+suspend	pause, halt
+sustain	maintain, support
+tackle	deal with, address
+temporary	short-term, brief
+tendency	inclination, trend
+thereby	by that means, thus
+thorough	complete, careful
+threaten	endanger, menace
+tolerate	allow, put up with
+transform	change, convert
+transition	change, shift
+transmit	send, pass on
+trigger	set off, cause
+undergo	experience, go through
+underestimate	undervalue, misjudge
+undermine	weaken, sabotage
+undertake	take on, attempt
+unique	one of a kind, sole
+update	revise, refresh
+urge	press, encourage
+utilize	use, make use of
+valid	sound, acceptable
+vanish	disappear, fade
+variable	factor, changing quantity
+vary	differ, change
+vast	huge, immense
+verify	confirm, check
+version	form, edition
+via	through, by way of
+viable	workable, feasible
+violate	break, infringe
+virtual	almost, simulated
+vital	essential, crucial
+volume	amount, bulk
+voluntary	optional, willing
+vulnerable	exposed, at risk
+warrant	justify, call for
+whereas	while, but
+whereby	by which, through which
+widespread	common, extensive
+withdraw	pull back, take out
+witness	see, observe
+yield	produce, give way
+carry-out	perform, execute
+point-out	mention, indicate
+bring-about	cause, lead to
+take-into-account	consider, allow for
+in-terms-of	regarding, with respect to
+on-the-grounds-that	because, for the reason that
+provided-that	on condition that, if
+as-opposed-to	in contrast to, rather than
+irrespective-of	regardless of, no matter
+with-a-view-to	in order to, aiming to
+abate	lessen, subside
+abbreviate	shorten, condense
+abduct	kidnap, take away
+abide	comply, accept
+abstain	refrain, hold back
+abuse	misuse, mistreat
+accede	agree, consent
+acquaint	inform, familiarize
+affirm	confirm, assert
+alienate	estrange, isolate
+allege	claim, assert
+alleviate	ease, relieve
+allude	refer, hint
+amend	revise, change
+amplify	increase, enlarge
+annihilate	destroy, wipe out
+applaud	praise, commend
+appraise	assess, evaluate
+arouse	awaken, stir
+articulate	express, state clearly
+ascertain	determine, find out
+ascribe	attribute, credit
+aspire	aim, hope
+assemble	gather, put together
+assimilate	absorb, integrate
+attest	confirm, testify
+augment	increase, enlarge
+authorize	permit, empower
+avert	prevent, turn away
+baffle	puzzle, confuse
+blend	mix, combine
+breach	violate, break
+cement	strengthen, secure
+certify	confirm, verify
+characterize	describe, typify
+cherish	treasure, value
+circulate	spread, move around
+classify	categorize, sort
+cling	hold on, stick
+collaborate	cooperate, work together
+collide	crash, conflict
+combat	fight, oppose
+combine	join, unite
+commence	begin, start
+compel	force, oblige
+complement	complete, go with
+complicate	make difficult, confuse
+comprehend	understand, grasp
+compromise	endanger, undermine
+concede	admit, yield
+conceive	imagine, devise
+condemn	denounce, criticize
+confer	grant, give
+conform	comply, fit in
+confuse	mix up, bewilder
+conquer	defeat, overcome
+consolidate	strengthen, combine
+contaminate	pollute, infect
+contemplate	consider, ponder
+contend	argue, claim
+convene	assemble, call together
+convert	change, transform
+convey	communicate, carry
+cooperate	work together, collaborate
+coordinate	organize, harmonize
+correlate	link, connect
+corrupt	spoil, bribe
+criticize	find fault, judge
+curb	restrain, control
+curtail	cut short, reduce
+deceive	mislead, trick
+dedicate	devote, commit
+deflect	turn aside, divert
+denounce	condemn, accuse
+depict	portray, describe
+deplete	use up, exhaust
+deploy	position, use
+deprive	deny, strip
+descend	go down, come from
+designate	appoint, name
+devastate	destroy, ruin
+deviate	stray, depart
+diagnose	identify, determine
+dictate	impose, determine
+dilute	weaken, thin
+discern	distinguish, make out
+discharge	release, emit
+dismantle	take apart, demolish
+disperse	scatter, spread
+disregard	ignore, overlook
+disseminate	spread, circulate
+dissolve	end, break up
+distract	divert, sidetrack
+distribute	hand out, spread
+divert	redirect, turn aside
+elicit	draw out, evoke
+embark	begin, start
+embody	represent, personify
+emit	give off, release
+emphasize	stress, highlight
+enact	pass, make law
+encompass	include, cover
+endanger	threaten, put at risk
+endorse	support, approve
+enrich	improve, enhance
+enroll	register, sign up
+equate	liken, treat as equal
+equip	provide, supply
+eradicate	eliminate, wipe out
+erode	wear away, weaken
+evacuate	empty, remove
+evade	avoid, dodge
+evoke	bring to mind, summon
+exaggerate	overstate, magnify
+execute	carry out, perform
+exemplify	illustrate, typify
+exert	apply, use
+exhaust	use up, tire
+expel	force out, eject
+extract	remove, draw out
+flourish	thrive, prosper
+foresee	anticipate, predict
+forge	build, create
+fortify	strengthen, reinforce
+frustrate	thwart, disappoint
+harness	use, exploit
+hasten	hurry, accelerate
+heighten	increase, intensify
+hesitate	pause, waver
+illuminate	light up, clarify
+immerse	absorb, plunge
+impair	weaken, damage
+impede	hinder, obstruct
+implement	carry out, apply
+implicate	involve, incriminate
+indulge	yield to, gratify
+infect	contaminate, spread to
+inflict	impose, cause
+infringe	violate, encroach
+inhabit	live in, occupy
+inherit	receive, take over
+inject	introduce, add
+inquire	ask, investigate
+inspire	motivate, stimulate
+install	put in, set up
+instill	implant, introduce
+instruct	direct, teach
+intensify	strengthen, increase
+interact	engage, communicate
+interfere	meddle, intervene
+intimidate	frighten, threaten
+invade	enter, occupy
+invent	create, devise
+invest	put in, devote
+invoke	cite, appeal to
+irritate	annoy, inflame
+jeopardize	endanger, risk
+lag	fall behind, delay
+linger	last, remain
+magnify	enlarge, intensify
+manifest	show, display
+mediate	intervene, arbitrate
+migrate	move, relocate
+mobilize	rally, organize
+moderate	ease, lessen
+motivate	inspire, drive
+multiply	increase, grow
+nominate	propose, name
+notify	inform, tell
+nourish	feed, sustain
+obscure	hide, conceal
+offend	upset, insult
+offset	compensate, balance
+oppress	persecute, crush
+originate	begin, arise
+overwhelm	overpower, flood
+penetrate	enter, pierce
+perish	die, vanish
+permit	allow, let
+persecute	oppress, harass
+pertain	relate, apply
+plead	beg, appeal
+pledge	promise, vow
+ponder	consider, think over
+portray	depict, describe
+precede	come before, lead
+precipitate	trigger, bring about
+preclude	prevent, rule out
+prescribe	order, recommend
+preside	chair, lead
+presume	assume, suppose
+prevail	win, predominate
+probe	investigate, examine
+proclaim	announce, declare
+procure	obtain, secure
+proliferate	multiply, spread
+prolong	extend, lengthen
+prompt	cause, induce
+propagate	spread, promote
+propel	drive, push
+prosecute	charge, pursue
+prosper	thrive, succeed
+purify	cleanse, refine
+quantify	measure, count
+reassure	comfort, calm
+rebuke	scold, reprimand
+recede	retreat, withdraw
+reclaim	recover, regain
+reconcile	settle, harmonize
+reconstruct	rebuild, restore
+rectify	correct, fix
+recur	happen again, return
+refrain	hold back, abstain
+refute	disprove, rebut
+rehabilitate	restore, reform
+reiterate	repeat, restate
+relieve	ease, lessen
+relinquish	give up, surrender
+relocate	move, transfer
+repeal	revoke, cancel
+repel	drive away, resist
+reproduce	copy, produce
+resent	begrudge, feel bitter
+resign	quit, step down
+resort	turn to, fall back on
+restrain	hold back, control
+resume	restart, continue
+retrieve	recover, get back
+retreat	withdraw, pull back
+revive	restore, bring back
+revolt	rebel, rise up
+safeguard	protect, defend
+sanction	penalize, authorize
+scatter	spread, disperse
+shatter	break, smash
+signify	mean, indicate
+simulate	imitate, model
+soothe	calm, ease
+specialize	focus, concentrate
+specify	state, name
+speculate	guess, conjecture
+stabilize	steady, balance
+stipulate	require, specify
+strengthen	reinforce, fortify
+strive	try hard, struggle
+subsidize	fund, support
+succumb	give in, yield
+summon	call, send for
+supervise	oversee, watch
+supplement	add, complement
+surpass	exceed, outdo
+surrender	give up, yield
+survey	review, examine
+suspect	doubt, distrust
+sway	influence, persuade
+symbolize	represent, stand for
+terminate	end, cancel
+testify	witness, give evidence
+thrive	flourish, prosper
+unify	unite, bring together
+uphold	support, confirm
+utter	say, voice
+validate	confirm, prove
+venture	dare, attempt
+veto	reject, block
+visualize	picture, imagine
+withhold	hold back, keep
+worsen	deteriorate, decline
+abundance	plenty, wealth
+aftermath	consequence, result
+agenda	program, schedule
+alliance	partnership, union
+ambiguity	uncertainty, vagueness
+amendment	change, revision
+apparatus	device, equipment
+appraisal	assessment, evaluation
+array	range, collection
+asset	resource, advantage
+assumption	supposition, belief
+ballot	vote, poll
+barrier	obstacle, block
+budget	funds, spending plan
+burden	load, weight
+census	population count, survey
+cluster	group, bunch
+coalition	alliance, union
+coincidence	chance, accident
+commodity	product, goods
+compliance	obedience, conformity
+concession	compromise, allowance
+configuration	arrangement, layout
+conformity	compliance, agreement
+congestion	crowding, blockage
+consensus	agreement, accord
+contamination	pollution, infection

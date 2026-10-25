@@ -1,0 +1,666 @@
+abate|v|yatışmak|The storm began to abate after midnight.
+abbreviate|v|kısaltmak|Please abbreviate a long title.
+abduct|v|kaçırmak|The child was abducted near the school.
+abide|v|uymak|Residents must abide by the rule.
+abstain|v|çekimser kalmak|Two members abstained from the vote.
+abuse|v|kötüye kullanmak|Officials abused their authority.
+accede|v|razı olmak|The ministry acceded to the request.
+acquaint|v|haberdar etmek|The course acquaints students with the method.
+affirm|v|doğrulamak|The witness affirmed the statement.
+alienate|v|yabancılaştırmak|The policy alienated young voters.
+allege|v|iddia etmek|Critics allege that the figures were changed.
+alleviate|v|hafifletmek|The medicine alleviates the pain.
+allude|v|değinmek|She alluded to an earlier study.
+amend|v|tadil etmek|Parliament amended the bill.
+amplify|v|büyütmek|The speech amplified public fear.
+annihilate|v|yok etmek|Fire annihilated the old archive.
+applaud|v|takdir etmek|Colleagues applauded the careful design.
+appraise|v|değer biçmek|Experts appraised the damage.
+arouse|v|uyandırmak|The rumor aroused suspicion.
+articulate|v|açıkça söylemek|She articulated the risk in one sentence.
+ascertain|v|kesinleştirmek|Inspectors ascertained the cause.
+ascribe|v|atfetmek|Historians ascribe the shift to trade.
+aspire|v|heves etmek|She aspires to a research post.
+assemble|v|bir araya getirmek|Volunteers assembled the kits.
+assimilate|v|özümsemek|Learners assimilate a rule by using it.
+attest|v|doğrulamak|Records attest to a long drought.
+augment|v|artırmak|The grant augmented the budget.
+authorize|v|yetkilendirmek|The board authorized a second trial.
+avert|v|önlemek|Quick action averted a wider fire.
+baffle|v|şaşırtmak|The result baffled the team.
+blend|v|harmanlamak|The paper blends history and data.
+breach|v|ihlal etmek|The firm breached the contract.
+cement|v|sağlamlaştırmak|The treaty cemented the alliance.
+certify|v|onaylamak|The lab certified the sample.
+characterize|v|niteliğini oluşturmak|High cost characterizes the first phase.
+cherish|v|bağrına basmak|The town cherishes the old harbor.
+circulate|v|dolaşmak|The draft circulated among editors.
+classify|v|sınıflandırmak|Biologists classify the bird by habitat.
+cling|v|sıkı sarılmak|He clung to an outdated method.
+collaborate|v|işbirliği yapmak|Two labs collaborated on the test.
+collide|v|çatışmak|The two accounts collide on the date.
+combat|v|mücadele etmek|Cities combat smoke with new rules.
+combine|v|birleştirmek|The study combines two data sets.
+commence|v|başlamak|Training will commence in May.
+compel|v|zorlamak|The evidence compelled a revision.
+complement|v|tamamlamak|Field notes complement the survey.
+complicate|v|zorlaştırmak|Exceptions complicate the rule.
+comprehend|v|kavramak|Few readers comprehend the formula at once.
+compromise|v|tehlikeye atmak|A leak compromised the trial.
+concede|v|kabul etmek|The author conceded a weak point.
+conceive|v|tasarlamak|She conceived the project as a pilot.
+condemn|v|kınamak|The report condemns the delay.
+confer|v|sağlamak|The diploma confers no license.
+conform|v|uymak|New buildings must conform to the code.
+confuse|v|karıştırmak|Similar words confuse candidates.
+conquer|v|alt etmek|The team conquered the last barrier.
+consolidate|v|pekiştirmek|The merger consolidated two offices.
+contaminate|v|kirletmek|Waste contaminated the well.
+contemplate|v|düşünmek|The ministry contemplated a tax cut.
+contend|v|ileri sürmek|Critics contend that the sample is small.
+convene|v|toplamak|The chair convened a meeting.
+convert|v|dönüştürmek|The plant converts waste into fuel.
+convey|v|iletmek|The chart conveys the trend.
+cooperate|v|işbirliği yapmak|Hospitals cooperated during the outbreak.
+coordinate|v|eşgüdümlemek|One office coordinates relief.
+correlate|v|ilişkilendirmek|Scores correlate with sleep.
+corrupt|v|bozmak|A bug corrupted the file.
+criticize|v|eleştirmek|Reviewers criticized the sample.
+curb|v|dizginlemek|The law curbs risky loans.
+curtail|v|kısaltmak|Fog curtailed the flight.
+deceive|v|aldatmak|The headline deceived hurried readers.
+dedicate|v|adamak|She dedicated ten years to the archive.
+deflect|v|saptırmak|The minister deflected the question.
+denounce|v|açıkça kınamak|Experts denounced the false claim.
+depict|v|betimlemek|The film depicts a flooded town.
+deplete|v|tüketmek|Pumping depleted the reservoir.
+deploy|v|seferber etmek|The agency deployed extra nurses.
+deprive|v|yoksun bırakmak|The ban deprived farms of a market.
+descend|v|alçalmak|Temperatures descend after sunset.
+designate|v|tayin etmek|The valley was designated a reserve.
+devastate|v|harap etmek|The quake devastated the port.
+deviate|v|sapmak|The result deviates from the model.
+diagnose|v|teşhis etmek|Doctors diagnosed the infection early.
+dictate|v|belirlemek|Cost dictates the material.
+dilute|v|seyreltmek|Rain diluted the spill.
+discern|v|seçmek|A careful reader can discern the shift.
+discharge|v|deşarj etmek|The plant discharges warm water.
+dismantle|v|sökmek|Crews dismantled the old tower.
+disperse|v|dağıtmak|Wind dispersed the smoke.
+disregard|v|aldırmamak|Do not disregard a small crack.
+disseminate|v|yaymak|The center disseminates the findings.
+dissolve|v|feshetmek|The committee was dissolved.
+distract|v|oyalamak|Noise distracted the candidates.
+distribute|v|dağıtmak|Clinics distribute the vaccine.
+divert|v|yönünü değiştirmek|The canal diverts flood water.
+elicit|v|açığa çıkarmak|The question elicited a clear answer.
+embark|v|girişmek|The city embarked on a rail plan.
+embody|v|cisimleştirmek|The statute embodies an old principle.
+emit|v|salmak|The factory emits less smoke now.
+emphasize|v|vurgulamak|The paper emphasizes the limit of the data.
+enact|v|yasalaştırmak|Parliament enacted the reform.
+encompass|v|içine almak|The term encompasses three diseases.
+endanger|v|tehlikeye atmak|Overfishing endangers the stock.
+endorse|v|desteklemek|The editor endorsed the correction.
+enrich|v|zenginleştirmek|Examples enrich a thin argument.
+enroll|v|kaydolmak|She enrolled in the night course.
+equate|v|bir tutmak|Do not equate a link with a cause.
+equip|v|donatmak|The grant equips the new lab.
+eradicate|v|ortadan kaldırmak|The campaign eradicated the disease.
+erode|v|aşındırmak|Inflation eroded the pay rise.
+evacuate|v|tahliye etmek|Families were evacuated before dawn.
+evade|v|geçiştirmek|The reply evades the question.
+evoke|v|anımsatmak|The photo evokes a lost street.
+exaggerate|v|abartmak|The advert exaggerates the benefit.
+execute|v|yerine getirmek|The crew executed the plan.
+exemplify|v|örnek olmak|This case exemplifies the risk.
+exert|v|uygulamak|Groups exert pressure on the vote.
+exhaust|v|tüketmek|The march exhausted the water.
+expel|v|çıkarmak|The school expelled the student.
+extract|v|özütlemek|Chemists extract the oil from seeds.
+flourish|v|serpilmek|Trade flourished after the canal.
+foresee|v|önceden görmek|Few foresaw the price jump.
+forge|v|kurmak|The towns forged a joint policy.
+fortify|v|tahkim etmek|Walls fortify the old town.
+frustrate|v|boşa çıkarmak|Delays frustrated the project.
+harness|v|işe koşmak|The dam harnesses the river.
+hasten|v|acele ettirmek|Heat hastens the decay.
+heighten|v|yükseltmek|The leak heightened public worry.
+hesitate|v|çekinmek|Do not hesitate to check the source.
+illuminate|v|aydınlatmak|The essay illuminates a dark year.
+immerse|v|dalmak|She immersed herself in the letters.
+impair|v|zayıflatmak|Lack of sleep impairs memory.
+impede|v|sekte vurmak|Debris impeded the rescue.
+implement|v|hayata geçirmek|Offices implemented the new rule.
+implicate|v|suç ortaklığına işaret etmek|The note implicates a supplier.
+indulge|v|kapılmak|The chapter indulges in guesswork.
+infect|v|bulaştırmak|The virus infects lung cells.
+inflict|v|yaşatmak|The storm inflicted heavy loss.
+infringe|v|tecavüz etmek|The copy infringes the patent.
+inhabit|v|mesken tutmak|Few birds inhabit the crater.
+inherit|v|devralmak|The city inherited a weak grid.
+inject|v|katmak|The fund injected cash into clinics.
+inquire|v|soruşturmak|Reporters inquired about the delay.
+inspire|v|esinlemek|The result inspired a larger study.
+install|v|takmak|They installed filters on each well.
+instill|v|yerleştirmek|The course instills slow reading.
+instruct|v|talimat vermek|The judge instructed the jury.
+intensify|v|şiddetlenmek|Rain intensified after noon.
+interact|v|etkileşime girmek|The two drugs interact.
+interfere|v|müdahale etmek|Static interferes with the signal.
+intimidate|v|gözdağı vermek|The threat intimidated the witness.
+invade|v|işgal etmek|Weeds invaded the bare field.
+invent|v|icat etmek|No single person invented the method.
+invest|v|yatırmak|The town invested in sea walls.
+invoke|v|dayanmak|The lawyer invoked an old law.
+irritate|v|tahriş etmek|The dust irritates the eyes.
+jeopardize|v|riske atmak|A leak would jeopardize the patients.
+lag|v|geri kalmak|Pay lags behind rent.
+linger|v|sürmek|The cough lingered for weeks.
+magnify|v|büyütmek|The lens magnifies the crack.
+manifest|v|kendini göstermek|Bias manifests in the questions.
+mediate|v|arabuluculuk etmek|A judge mediated the dispute.
+migrate|v|göç etmek|Herds migrate before the snow.
+mobilize|v|seferber etmek|The city mobilized volunteers.
+moderate|v|yumuşatmak|Clouds moderate the afternoon heat.
+motivate|v|motive etmek|A short goal motivates practice.
+multiply|v|çarpmak|Small mistakes multiply in a long sum.
+nominate|v|aday göstermek|Peers nominated her for the prize.
+notify|v|haber vermek|The school notified every parent.
+nourish|v|beslemek|Good soil nourishes the crop.
+obscure|v|örtmek|Jargon obscures a plain fact.
+offend|v|kırmak|The joke offended the guests.
+offset|v|telafi etmek|Export gains offset the slump.
+oppress|v|baskı altında tutmak|The law oppressed the minority press.
+originate|v|kaynaklanmak|The custom originates on the coast.
+overwhelm|v|boğmak|Mail overwhelmed the small office.
+penetrate|v|içine işlemek|Light barely penetrates the forest.
+perish|v|yok olmak|The letters perished in the fire.
+permit|v|izin vermek|The rule permits a short break.
+persecute|v|baskı yapmak|Writers were persecuted for their essays.
+pertain|v|ait olmak|The footnote pertains to table two.
+plead|v|rica etmek|The lawyer pleaded for a delay.
+pledge|v|söz vermek|Donors pledged new funds.
+ponder|v|kafa yormak|The panel pondered the risk.
+portray|v|resmetmek|The article portrays her as cautious.
+precede|v|den önce gelmek|A siren preceded the evacuation.
+precipitate|v|tetiklemek|The remark precipitated a walkout.
+preclude|v|engellemek|The rule precludes a second salary.
+prescribe|v|reçete etmek|Doctors prescribe rest for a week.
+preside|v|başkanlık etmek|She presided over the hearing.
+presume|v|farz etmek|Do not presume that silence is agreement.
+prevail|v|üstün gelmek|Caution prevailed in the end.
+probe|v|soruşturmak|Auditors probed the contract.
+proclaim|v|ilan etmek|The mayor proclaimed a holiday.
+procure|v|temin etmek|The hospital procured more beds.
+proliferate|v|çoğalmak|Rumors proliferated within hours.
+prolong|v|uzatmak|Appeals prolonged the case.
+prompt|v|neden olmak|The leak prompted an inquiry.
+propagate|v|yaymak|The wind propagates the seeds.
+propel|v|itmek|Demand propelled prices upward.
+prosecute|v|kovuşturmak|The state prosecuted the company.
+prosper|v|refaha ermek|The harbor prospered for decades.
+purify|v|arıtmak|Filters purify the drinking water.
+quantify|v|nicelleştirmek|The paper quantifies the damage.
+reassure|v|teskin etmek|The nurse reassured the child.
+rebuke|v|paylamak|The editor rebuked the sloppy claim.
+recede|v|çekilmek|Flood water receded by evening.
+reclaim|v|geri kazanmak|Farmers reclaimed the salty field.
+reconcile|v|bağdaştırmak|The model reconciles the two results.
+reconstruct|v|yeniden inşa etmek|Scholars reconstructed the route.
+rectify|v|düzeltmek|The bank rectified the charge.
+recur|v|nüks etmek|The pain may recur at night.
+refrain|v|kendini tutmak|Please refrain from guessing.
+refute|v|çürütmek|Fresh data refute the claim.
+rehabilitate|v|rehabilite etmek|The plan rehabilitates the marsh.
+reiterate|v|tekrarlamak|She reiterated the warning.
+relieve|v|dindirmek|The syrup relieves the cough.
+relinquish|v|bırakmak|He relinquished control of the fund.
+relocate|v|yerini değiştirmek|The clinic relocated uphill.
+repeal|v|ilga etmek|Parliament repealed the old tax.
+repel|v|kovmak|The cloth repels rain.
+reproduce|v|üretmek|The cells reproduce within hours.
+resent|v|gücenmek|Staff resented the sudden cut.
+resign|v|istifa etmek|The director resigned after the audit.
+resort|v|başvurmak|Surgeons resort to that method last.
+restrain|v|zaptetmek|Officers restrained the crowd.
+resume|v|yeniden başlamak|Talks resumed after lunch.
+retrieve|v|geri getirmek|Divers retrieved the box.
+retreat|v|geri çekilmek|Troops retreated at dusk.
+revive|v|canlandırmak|A grant revived the small museum.
+revolt|v|ayaklanmak|Workers revolted against the cut.
+safeguard|v|güvence altına almak|The law safeguards personal files.
+sanction|v|yaptırım uygulamak|The union sanctioned the member.
+scatter|v|savurmak|Wind scattered the ashes.
+shatter|v|paramparça etmek|The blast shattered the glass.
+signify|v|ifade etmek|A red mark signifies failure.
+simulate|v|simüle etmek|The program simulates a dry decade.
+soothe|v|yatıştırmak|The gel soothes the burn.
+specialize|v|uzmanlaşmak|The ward specializes in burns.
+specify|v|belirtmek|The form specifies the fee.
+speculate|v|spekülasyon yapmak|Avoid speculating past the evidence.
+stabilize|v|dengelemek|The dose stabilized her pulse.
+stipulate|v|şart koşmak|The grant stipulates open data.
+strengthen|v|güçlendirmek|Practice strengthens recall.
+strive|v|uğraşmak|The city strives to cut smoke.
+subsidize|v|desteklemek|The state subsidizes village buses.
+succumb|v|yenik düşmek|The patient succumbed to infection.
+summon|v|çağırmak|The court summoned a witness.
+supervise|v|gözetmek|A nurse supervises the night shift.
+supplement|v|eklemek|A map supplements the text.
+surpass|v|geride bırakmak|Output surpassed last year.
+surrender|v|teslim olmak|The garrison surrendered at dawn.
+survey|v|taramak|Teams surveyed the damaged coast.
+suspect|v|şüphelenmek|Doctors suspected a second cause.
+sway|v|yönlendirmek|The graph swayed the committee.
+symbolize|v|simge olmak|The bridge symbolizes the truce.
+terminate|v|feshetmek|The firm terminated the contract.
+testify|v|şahitlik etmek|Experts testified in the hearing.
+thrive|v|gelişip serpilmek|The reef thrives in clean water.
+unify|v|tek çatı altında toplamak|The reform unified two codes.
+uphold|v|onaylamak|The court upheld the ban.
+utter|v|dile getirmek|She uttered a brief warning.
+validate|v|doğrulamak|A second lab validated the result.
+venture|v|teşebbüs etmek|Few firms venture into that market.
+veto|v|veto etmek|The president vetoed the bill.
+visualize|v|gözde canlandırmak|The sketch helps readers visualize the path.
+withhold|v|saklamak|The office withheld the names.
+worsen|v|kötüye gitmek|The cough worsened at night.
+abundance|n|bolluk|The coast has an abundance of fish.
+aftermath|n|sonrası|In the aftermath, roads stayed closed.
+agenda|n|gündem|Housing is high on the agenda.
+alliance|n|ittifak|The two ports formed an alliance.
+ambiguity|n|belirsizlik|The clause leaves room for ambiguity.
+amendment|n|değişiklik|An amendment narrowed the tax.
+apparatus|n|aygıt|The lab bought a new apparatus.
+appraisal|n|değerlendirme|The appraisal put the loss at a million.
+array|n|dizi|The museum holds a wide array of tools.
+asset|n|varlık|Skilled staff are the main asset.
+assumption|n|varsayım|The model rests on one assumption.
+ballot|n|oy pusulası|Voters marked a paper ballot.
+barrier|n|engel|Cost is a barrier for rural students.
+budget|n|bütçe|The clinic stayed within its budget.
+burden|n|yük|Debt became a heavy burden.
+census|n|nüfus sayımı|The census counted every household.
+cluster|n|küme|A cluster of cases appeared in May.
+coalition|n|koalisyon|A coalition passed the reform.
+coincidence|n|tesadüf|The shared date is not a coincidence.
+commodity|n|emtia|Oil is the country's chief commodity.
+compliance|n|uyum|Firms must show compliance with the rule.
+concession|n|ödün|The firm made one concession.
+configuration|n|düzen|The configuration of the streets is old.
+conformity|n|uygunluk|Conformity with the code is required.
+congestion|n|tıkanıklık|Traffic congestion peaks at dusk.
+consensus|n|fikir birliği|There is no consensus on the cause.
+contamination|n|bulaşma|Contamination closed the well.
+contention|n|iddia|His contention lacks evidence.
+correlation|n|bağıntı|The correlation does not prove a cause.
+counterpart|n|muadil|She met her counterpart in Ankara.
+criterion|n|ölçüt|Cost is not the only criterion.
+deficit|n|açık|The budget deficit grew last year.
+density|n|yoğunluk|Population density is highest on the coast.
+deployment|n|konuşlandırma|Deployment of nurses took a day.
+deprivation|n|yoksunluk|Sleep deprivation harms judgment.
+diagnosis|n|tanı|The diagnosis came after two tests.
+dilemma|n|ikilem|The mayor faced a hard dilemma.
+discrimination|n|ayrımcılık|The law bans discrimination at work.
+displacement|n|yerinden edilme|The flood caused mass displacement.
+disruption|n|aksama|The strike caused a brief disruption.
+distortion|n|çarpıtma|The chart contains a visual distortion.
+dominance|n|baskınlık|One firm enjoys market dominance.
+drought|n|kuraklık|A long drought ruined the harvest.
+emission|n|salım|The plant cut its carbon emission.
+equilibrium|n|denge|The market returned to equilibrium.
+erosion|n|erazyon|Soil erosion followed the fire.
+exclusion|n|dışlama|The exclusion of women skewed the data.
+exemption|n|muafiyet|Students received a fee exemption.
+exploitation|n|sömürü|The report condemns labor exploitation.
+fluctuation|n|dalgalanma|Price fluctuation scared small buyers.
+formulation|n|ifade ediliş|The formulation of the rule is vague.
+fraction|n|kesir|Only a fraction of applicants succeed.
+friction|n|sürtüşme|Friction grew between the two offices.
+fusion|n|kaynaşma|The fusion of the two units saved money.
+gradient|n|eğim|The road has a steep gradient.
+hazard|n|tehlike|Ice is a hazard on that road.
+hierarchy|n|hiyerarşi|The hierarchy slowed every decision.
+immunity|n|bağışıklık|The vaccine builds immunity.
+indicator|n|gösterge|Unemployment is a key indicator.
+inequality|n|eşitsizlik|Pay inequality widened in the city.
+inference|n|çıkarım|That inference goes beyond the data.
+inflation|n|enflasyon|Inflation ate into wages.
+inhabitant|n|sakin|The island has few inhabitants.
+inspection|n|denetim|An inspection found a cracked pipe.
+installation|n|tesis|The installation of filters took a week.
+integration|n|bütünleşme|Integration of the data took months.
+intensity|n|yoğunluk|The intensity of the storm surprised pilots.
+interference|n|karışma|Political interference worried the lab.
+interval|n|aralık|Check the patient at a short interval.
+intuition|n|sezgi|Intuition is not a substitute for evidence.
+invasion|n|istila|The invasion of weeds ruined the crop.
+irrigation|n|sulama|Irrigation saved the summer crop.
+jurisdiction|n|yargı yetkisi|The case falls outside our jurisdiction.
+justification|n|gerekçe|The paper offers no justification.
+legislation|n|mevzuat|New legislation limits the pesticide.
+legitimacy|n|meşruiyet|The vote gave the council legitimacy.
+liability|n|yükümlülük|The firm denied liability for the leak.
+literacy|n|okuryazarlık|Adult literacy rose in a decade.
+magnitude|n|büyüklük|They underestimated the magnitude of the loss.
+mandate|n|yetki|The election gave her a clear mandate.
+margin|n|pay|The victory came by a narrow margin.
+mechanism|n|işleyiş|The mechanism of the drug is known.
+migration|n|göç|Rural migration filled the capital.
+minority|n|azınlık|A minority opposed the plan.
+modification|n|değişiklik|A small modification fixed the bug.
+momentum|n|ivme|The campaign lost momentum in June.
+monopoly|n|tekel|One company holds a monopoly on the route.
+mortality|n|ölüm oranı|Infant mortality fell steadily.
+mutation|n|mutasyon|A mutation made the strain milder.
+norm|n|norm|Working late became the norm.
+obligation|n|yükümlülük|Parents have an obligation to the school.
+occupation|n|meslek|Teaching is her occupation.
+occurrence|n|oluş|The occurrence of frost is rare here.
+omission|n|eksik bırakma|The omission of women biased the study.
+orientation|n|yönelim|The course includes a short orientation.
+outbreak|n|salgın|An outbreak closed the ward.
+outlook|n|görünüm|The economic outlook is cautious.
+output|n|çıktı|Factory output rose in March.
+overlap|n|örtüşme|There is some overlap between the two tests.
+paradigm|n|model|The result challenged the old paradigm.
+parameter|n|parametre|Age was a key parameter.
+particle|n|parçacık|Dust particles hung in the air.
+partition|n|bölünme|The partition of the land caused disputes.
+perception|n|algı|Public perception shifted after the report.
+persistence|n|ısrar|Her persistence opened the archive.
+pioneer|n|öncü|She was a pioneer of the method.
+pollutant|n|kirletici|The plant reduced each pollutant.
+portion|n|pay|A large portion of the budget goes to wages.
+precedent|n|emsal|The ruling set a precedent.
+precision|n|kesinlik|The tool measures with high precision.
+prediction|n|öngörü|The prediction missed the harvest.
+premise|n|öncül|The argument rests on a false premise.
+prescription|n|reçete|The prescription was for seven days.
+prevalence|n|yaygınlık|The prevalence of asthma is rising.
+priority|n|öncelik|Safety is the first priority.
+probability|n|olasılık|The probability of rain is low.
+procedure|n|yöntem|Follow the procedure for a fire.
+productivity|n|verimlilik|Rest raised the team's productivity.
+projection|n|tahmin|The projection shows a smaller harvest.
+proposition|n|önerme|The proposition failed in the vote.
+prosperity|n|refah|Peace brought a decade of prosperity.
+protocol|n|protokol|The lab follows a strict protocol.
+provision|n|hüküm|A provision allows an appeal.
+qualification|n|nitelik|A degree is the minimum qualification.
+ratio|n|oran|The ratio of nurses to patients fell.
+rationale|n|gerekçe|The rationale for the cut is unclear.
+recession|n|durgunluk|The recession closed three mills.
+recognition|n|tanınma|The work gained late recognition.
+reconstruction|n|yeniden yapım|Reconstruction of the bridge took a year.
+recruitment|n|işe alım|Recruitment of nurses slowed in winter.
+reduction|n|azalma|A reduction in smoke followed the ban.
+reform|n|reform|The reform shortened the procedure.
+regime|n|rejim|The tax regime favors small firms.
+regression|n|gerileme|Test scores showed a regression.
+regulation|n|yönetmelik|A new regulation limits night flights.
+reinforcement|n|pekiştirme|The wall needs reinforcement.
+rejection|n|ret|The rejection of the grant surprised them.
+relevance|n|ilgi|The judge questioned the relevance of the letter.
+reliance|n|bağımlılık|Reliance on a single crop is risky.
+remainder|n|kalan|The remainder of the fund goes to schools.
+remnant|n|kalıntı|A remnant of the wall still stands.
+replication|n|tekrar|Replication of the study failed.
+residue|n|kalıntı|Chemical residue remained on the leaves.
+resistance|n|direnç|The bacteria showed resistance to the drug.
+resolution|n|çözüm|The resolution of the dispute took months.
+restoration|n|restorasyon|Restoration of the mosque began in May.
+restraint|n|itidal|She spoke with restraint.
+retention|n|akılda tutma|Short reviews aid retention.
+retrieval|n|geri getirme|Retrieval of the data took an hour.
+revenue|n|gelir|Tourism is a major revenue.
+reversal|n|tersine dönüş|The reversal of policy shocked markets.
+revision|n|gözden geçirme|A revision corrected the date.
+scarcity|n|kıtlık|Water scarcity drives the conflict.
+scenario|n|senaryo|The worst scenario is a dry decade.
+sector|n|sektör|The health sector needs nurses.
+sediment|n|tortu|Sediment clogged the canal.
+segment|n|dilim|A segment of voters stayed home.
+settlement|n|yerleşim|The settlement grew along the river.
+shortage|n|kıtlık|A nurse shortage closed one ward.
+significance|n|anlam|The statistical significance is weak.
+simulation|n|benzetim|A simulation predicted the flood line.
+skepticism|n|kuşku|The claim met with skepticism.
+solidarity|n|dayanışma|Neighbors showed solidarity after the fire.
+spectrum|n|yelpaze|The spectrum of opinions is wide.
+speculation|n|tahmin|The article is full of speculation.
+stability|n|istikrar|Price stability returned in autumn.
+stakeholder|n|paydaş|Every stakeholder signed the plan.
+stance|n|tavır|The minister softened her stance.
+stimulus|n|uyaran|Light is a stimulus for the plant.
+subsidy|n|sübvansiyon|The subsidy kept the bus route open.
+substitution|n|ikame|Substitution of oil with gas cut smoke.
+succession|n|art arda geliş|A succession of storms hit the coast.
+surplus|n|fazla|The region has a grain surplus.
+suspension|n|askıya alma|The suspension of flights lasted a day.
+sustainability|n|sürdürülebilirlik|The plan stresses sustainability.
+symptom|n|belirti|Fever was the first symptom.
+synthesis|n|sentez|The chapter is a synthesis of two fields.
+tactic|n|taktik|Delay was their only tactic.
+tariff|n|gümrük vergisi|The tariff raised the price of steel.
+tension|n|gerginlik|Tension rose before the vote.
+terrain|n|arazi|The terrain is steep and dry.
+threshold|n|eşik|Pain crossed the threshold of tolerance.
+tolerance|n|hoşgörü|The drug requires a high tolerance.
+trajectory|n|yörünge|The trajectory of prices is downward.
+transaction|n|işlem|Each transaction leaves a record.
+treaty|n|antlaşma|The treaty opened the border.
+turnover|n|devir|Staff turnover is high in the ward.
+uncertainty|n|belirsizlik|Uncertainty froze new investment.
+validity|n|geçerlilik|Lawyers challenged the validity of the will.
+variation|n|çeşitlilik|There is wide variation in rainfall.
+verdict|n|hüküm|The jury reached a verdict at dusk.
+violation|n|ihlal|The spill was a violation of the permit.
+virtue|n|erdem|Patience is a virtue in a long trial.
+volatility|n|oynaklık|Price volatility scared small farms.
+welfare|n|refah|The program supports child welfare.
+abrupt|adj|ani|The meeting came to an abrupt end.
+absolute|adj|mutlak|There is no absolute proof.
+abstract|adj|soyut|The idea is too abstract for the chart.
+absurd|adj|saçma|The rumor is absurd.
+acute|adj|şiddetli|The pain was acute but brief.
+adjacent|adj|bitişik|The lab is adjacent to the ward.
+ample|adj|bol|There is ample time to revise.
+anonymous|adj|adsız|An anonymous letter reached the editor.
+applicable|adj|uygulanabilir|The rule is applicable to all staff.
+approximate|adj|yaklaşık|The figure is approximate.
+autonomous|adj|özerk|The island has an autonomous council.
+bleak|adj|kasvetli|The forecast is bleak.
+chronic|adj|kronik|Chronic lack of sleep harms memory.
+civic|adj|kentsel|Civic pride rebuilt the square.
+civilian|adj|sivil|Civilian flights resumed at noon.
+cognitive|adj|bilişsel|The test measures cognitive skill.
+collective|adj|ortak|It was a collective decision.
+comparable|adj|kıyaslanabilir|The two years are not comparable.
+compelling|adj|ikna edici|The evidence is compelling.
+complementary|adj|tamamlayıcı|The two skills are complementary.
+compulsory|adj|zorunlu|Attendance is compulsory.
+concise|adj|özlü|Keep the abstract concise.
+confidential|adj|gizli|The file is confidential.
+consecutive|adj|art arda|It rained for three consecutive days.
+consequent|adj|sonuç olarak gelen|The consequent delay lasted a week.
+contradictory|adj|çelişkili|The two reports are contradictory.
+contrary|adj|aksi|Contrary evidence soon appeared.
+conventional|adj|alışılmış|The treatment is conventional.
+cooperative|adj|işbirliğine açık|The witness was cooperative.
+corresponding|adj|karşılık gelen|See the corresponding note.
+costly|adj|pahalı|The error was costly.
+credible|adj|inandırıcı|The account is credible.
+crude|adj|kaba|The first estimate is crude.
+cumulative|adj|birikimli|The cumulative effect is large.
+cynical|adj|kötümser|A cynical reader doubted the promise.
+decisive|adj|belirleyici|One vote was decisive.
+deficient|adj|eksik|The diet is deficient in iron.
+delicate|adj|narin|The balance is delicate.
+dense|adj|yoğun|The fog was dense at dawn.
+detrimental|adj|zararlı|Smoke is detrimental to the lungs.
+devastating|adj|yıkıcı|The review was devastating.
+discreet|adj|ağzı sıkı|The nurse was discreet.
+discrete|adj|ayrı|The two stages are discrete.
+drastic|adj|köklü|The cut was drastic.
+dubious|adj|kuşkulu|The source is dubious.
+durable|adj|dayanıklı|The cloth is durable.
+ecological|adj|ekolojik|The ecological cost is high.
+elaborate|adj|ayrıntılı|She gave an elaborate answer.
+eligible|adj|uygun|Only seniors are eligible.
+eminent|adj|seçkin|An eminent surgeon led the team.
+enormous|adj|devasa|The cost was enormous.
+enthusiastic|adj|hevesli|Students were enthusiastic.
+erratic|adj|düzensiz|His attendance was erratic.
+ethical|adj|etik|The board raised an ethical objection.
+ethnic|adj|etnik|The city has many ethnic groups.
+excessive|adj|aşırı|The fine is excessive.
+exclusive|adj|dışlayıcı|The club is exclusive.
+explosive|adj|patlayıcı|The mix is explosive.
+external|adj|dış|External reviewers read the paper.
+extraordinary|adj|olağanüstü|The rainfall was extraordinary.
+extreme|adj|aşırı uç|Avoid extreme claims.
+federal|adj|federal|Federal funds paid for the bridge.
+fertile|adj|verimli|The delta is fertile.
+fierce|adj|şiddetli|Fierce winds closed the port.
+finite|adj|sonlu|Oil reserves are finite.
+fragile|adj|kırılgan|The peace is fragile.
+frequent|adj|sık|Frequent reviews beat one long cram.
+genuine|adj|sahici|The relief was genuine.
+harsh|adj|sert|The winter was harsh.
+hostile|adj|düşmanca|The crowd turned hostile.
+immense|adj|muazzam|The archive is immense.
+imminent|adj|eli kulağında|A storm is imminent.
+immune|adj|bağışık|No one is immune to error.
+impartial|adj|tarafsız|The judge must be impartial.
+implicit|adj|örtük|The threat was implicit.
+incompatible|adj|bağdaşmaz|The two drugs are incompatible.
+indigenous|adj|yerli|Indigenous plants returned to the dune.
+infamous|adj|adı çıkmış|The prison is infamous.
+infinite|adj|sonsuz|Patience is not infinite.
+influential|adj|etkili|She is an influential editor.
+inherent|adj|doğasında olan|Risk is inherent in the method.
+innocent|adj|masum|The court found him innocent.
+instrumental|adj|araç olan|She was instrumental in the reform.
+insufficient|adj|yetersiz|The sample is insufficient.
+intact|adj|bozulmamış|The seal was intact.
+integral|adj|ayrılmaz|Trust is integral to the plan.
+interim|adj|geçici|An interim report is due Friday.
+intricate|adj|girift|The plot is intricate.
+intrinsic|adj|içkin|The value is intrinsic.
+ironic|adj|ironik|The result is ironic.
+irregular|adj|düzensiz|His pulse was irregular.
+irrelevant|adj|alakasız|The detail is irrelevant.
+judicial|adj|yargısal|The dispute needs a judicial review.
+legitimate|adj|meşru|The concern is legitimate.
+linguistic|adj|dilsel|A linguistic clue solved the line.
+literal|adj|harfi harfine|Do not take the phrase in a literal sense.
+mainstream|adj|ana akım|The idea entered the mainstream.
+mandatory|adj|zorunlu|A helmet is mandatory.
+massive|adj|çok büyük|A massive landslide blocked the road.
+mechanical|adj|mekanik|The fault is mechanical.
+mild|adj|ılıman|The winter was mild.
+minimal|adj|asgari|The change was minimal.
+misleading|adj|yanıltıcı|The title is misleading.
+moderate|adj|ılımlı|Prices saw a moderate rise.
+modest|adj|mütevazı|The gain was modest.
+monetary|adj|parasal|Monetary policy stayed tight.
+naive|adj|saf|The forecast was naive.
+neutral|adj|nötr|The chair stayed neutral.
+notable|adj|dikkate değer|A notable exception is the coast.
+notorious|adj|adı kötüye çıkmış|The bend is notorious for crashes.
+numerous|adj|çok sayıda|Numerous complaints arrived.
+obscure|adj|az bilinen|The poet is obscure.
+obsolete|adj|modası geçmiş|The map is obsolete.
+occasional|adj|ara sıra olan|Occasional rain is enough here.
+optimistic|adj|iyimser|The outlook is optimistic.
+oral|adj|sözlü|The exam has an oral part.
+organic|adj|organik|Organic waste feeds the soil.
+overwhelming|adj|ezici|The vote was overwhelming.
+parallel|adj|paralel|The two stories run parallel.
+partial|adj|kısmi|The eclipse was partial.
+peculiar|adj|tuhaf|The smell was peculiar.
+periodic|adj|dönemsel|The review is periodic.
+pertinent|adj|konuyla ilgili|The question is pertinent.
+pessimistic|adj|kötümser|The forecast is pessimistic.
+plausible|adj|akla yatkın|The excuse is plausible.
+pragmatic|adj|pragmatik|She took a pragmatic line.
+predominant|adj|baskın|Rice is the predominant crop.
+premature|adj|erken|A conclusion now would be premature.
+prevalent|adj|yaygın|The belief is prevalent.
+probable|adj|muhtemel|Rain is probable tonight.
+productive|adj|üretken|The meeting was productive.
+progressive|adj|ilerleyen|The disease is progressive.
+provisional|adj|geçici|The figure is provisional.
+prudent|adj|ihtiyatlı|A prudent investor waits.
+qualitative|adj|nitel|The study is qualitative.
+quantitative|adj|nicel|They want a quantitative estimate.
+reciprocal|adj|karşılıklı|The duty is reciprocal.
+reckless|adj|pervasız|The driver was reckless.
+redundant|adj|gereksiz|The second test is redundant.
+renewable|adj|yenilenebilir|Solar power is renewable.
+resilient|adj|dayanıklı|The town is resilient.
+resistant|adj|dirençli|The strain is resistant.
+rigorous|adj|sıkı|The review was rigorous.
+rural|adj|kırsal|Rural schools lack labs.
+skeptical|adj|kuşkucu|The referee was skeptical.
+solar|adj|güneşe ait|Solar panels cover the roof.
+spatial|adj|mekansal|The map shows a spatial pattern.
+spontaneous|adj|kendiliğinden|The protest was spontaneous.
+stark|adj|keskin|The contrast is stark.
+statistical|adj|istatistiksel|The statistical link is weak.
+steep|adj|dik|The path is steep.
+strategic|adj|stratejik|The port is strategic.
+striking|adj|çarpıcı|The difference is striking.
+subjective|adj|öznel|Taste is subjective.
+successive|adj|birbirini izleyen|Successive governments delayed the dam.
+superficial|adj|yüzeysel|The analysis is superficial.
+supplementary|adj|ek|A supplementary note explains the table.
+supreme|adj|en yüksek|The supreme court heard the case.
+suspicious|adj|kuşku uyandıran|The sudden gift looked suspicious.
+sustainable|adj|sürdürülebilir|The catch is not sustainable.
+symbolic|adj|simgesel|The gift was symbolic.
+systematic|adj|sistemli|The search was systematic.
+theoretical|adj|kuramsal|The risk is still theoretical.
+timely|adj|vakitli|The warning was timely.
+toxic|adj|zehirli|The waste is toxic.
+transparent|adj|şeffaf|The process should be transparent.
+tremendous|adj|müthiş|The noise was tremendous.
+tropical|adj|tropikal|The storm is tropical.
+underlying|adj|altta yatan|The underlying cause is debt.
+unprecedented|adj|eşi görülmemiş|The heat was unprecedented.
+unstable|adj|kararsız|The cliff is unstable.
+urban|adj|kentsel|Urban rents rose again.
+urgent|adj|acil|The case is urgent.
+verbal|adj|sözel|They had a verbal agreement.
+vertical|adj|dikey|The cliff is nearly vertical.
+vibrant|adj|canlı|The market is vibrant.
+vocal|adj|sesli|Parents were vocal about the cut.
+worthwhile|adj|zahmete değer|A second reading is worthwhile.
+allegedly|adv|iddia edildiğine göre|The firm allegedly hid the leak.
+consequently|adv|sonuç olarak|The road closed; consequently the fair did.
+conversely|adv|tersine|Sales fell. Conversely, costs rose.
+exclusively|adv|yalnızca|The ward treats children exclusively.
+formerly|adv|eskiden|The mill was formerly a stable.
+genuinely|adv|gerçekten|She was genuinely surprised.
+henceforth|adv|bundan böyle|Henceforth the fee is annual.
+invariably|adv|her zaman|The bus is invariably late.
+likewise|adv|aynı şekilde|The second sample failed likewise.
+namely|adv|yani|One risk remains, namely flood.
+notably|adv|özellikle|Costs rose, notably for fuel.
+nonetheless|adv|yine de|The sample is small; nonetheless the trend is clear.
+ostensibly|adv|görünüşte|The visit was ostensibly private.
+predominantly|adv|ağırlıklı olarak|The region is predominantly rural.
+presumably|adv|tahminen|Presumably the letter never arrived.
+readily|adv|kolayca|The data are readily available.
+respectively|adv|sırasıyla|The scores were 70 and 90 respectively.
+subsequently|adv|ardından|She left and subsequently wrote the book.
+thereby|adv|böylece|She signed, thereby ending the dispute.
+ultimately|adv|nihayetinde|Ultimately the court agreed.
+whereas|conj|oysa|Exports rose, whereas wages did not.
+albeit|conj|her ne kadar|The plan works, albeit slowly.
+provided|conj|koşuluyla|You may leave provided the form is done.
+unless|conj|olmadıkça|The crop fails unless it rains.
+although|conj|-e rağmen|Although the fee rose, demand held.
